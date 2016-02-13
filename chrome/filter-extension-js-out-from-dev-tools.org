@@ -1,0 +1,1 @@
+在filter中使用 -scheme:chrome-extension
