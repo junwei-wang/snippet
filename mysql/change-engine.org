@@ -1,0 +1,4 @@
+* 改变MySQL的存储引擎
+  #+BEGIN_SRC
+  mysql> ALTER TABLE table_name ENGINE=MyISAM;
+  #+END_SRC
